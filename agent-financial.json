@@ -79,17 +79,17 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "1EIsMe2HqNieaq3ErlEde_SqGZFq_FBYhthYpPK4G3OA",
+          "value": "YOUR_SPREADSHEET_ID",
           "mode": "list",
           "cachedResultName": "atendimento_clientes",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1EIsMe2HqNieaq3ErlEde_SqGZFq_FBYhthYpPK4G3OA/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
           "value": 952327553,
           "mode": "list",
           "cachedResultName": "financeiro",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1EIsMe2HqNieaq3ErlEde_SqGZFq_FBYhthYpPK4G3OA/edit#gid=952327553"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID/edit#gid=952327553"
         },
         "options": {}
       },
