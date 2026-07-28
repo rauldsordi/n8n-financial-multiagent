@@ -16,14 +16,14 @@
       ],
       "id": "dffbdc4f-4781-4e01-9c88-caa8da6bec81",
       "name": "Telegram Trigger",
-      "webhookId": "92fa9263-059e-40e0-bf98-a1c02cff3a6d",
+      "webhookId": "YOUR_WEBHOOK_ID",
       "retryOnFail": false,
       "maxTries": 2,
       "alwaysOutputData": false,
       "executeOnce": false,
       "credentials": {
         "telegramApi": {
-          "id": "WqgoH7jgMwikknUf",
+          "id": "YOUR_TELEGRAM_ID",
           "name": "Telegram account"
         }
       }
@@ -76,10 +76,10 @@
       ],
       "id": "f4501938-8d75-4c7e-827f-5c62004ba3bf",
       "name": "Get a file",
-      "webhookId": "420a087c-2ef0-4c08-bb54-f411742f972c",
+      "webhookId": "YOUR_WEBHOOK_ID",
       "credentials": {
         "telegramApi": {
-          "id": "WqgoH7jgMwikknUf",
+          "id": "YOUR_TELEGRAM_ID",
           "name": "Telegram account"
         }
       }
@@ -106,7 +106,7 @@
       "name": "Transcribe a recording",
       "credentials": {
         "googlePalmApi": {
-          "id": "eGobkKP7yD0BJpbV",
+          "id": "YOUR_ID",
           "name": "n8n"
         }
       }
@@ -379,7 +379,7 @@
       ],
       "id": "f2b6e128-21d1-48cc-b78a-4e69d23c896a",
       "name": "Send a text message",
-      "webhookId": "fe249deb-b624-468e-9ce4-551125681b49",
+      "webhookId": "YOUR_WEBHOOK_ID",
       "retryOnFail": true,
       "credentials": {
         "telegramApi": {
