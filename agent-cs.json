@@ -79,9 +79,9 @@
       "parameters": {
         "calendar": {
           "__rl": true,
-          "value": "raulsordi@gmail.com",
+          "value": "your-email@example.com",
           "mode": "list",
-          "cachedResultName": "raulsordi@gmail.com"
+          "cachedResultName": "your-email@example.com"
         },
         "start": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Start', `Use a Data e hora que o cliente informar na conversa para criar o evento`, 'string') }}",
         "end": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('End', `1 Hora após o inicio da reunião. `, 'string') }}",
