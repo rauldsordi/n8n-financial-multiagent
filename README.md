@@ -1,4 +1,4 @@
-# Financial Advisory Multi-Agent System — n8n + Gemini + Telegram
+# Financial Advisory Multi-Agent System — n8n
 
 Automated customer service system with 4 AI agents for financial advisory offices.
 
