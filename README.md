@@ -18,6 +18,8 @@ Audio messages are automatically transcribed and structured by Gemini before rou
 
 The client never notices the handoff. The experience feels like a single, fluid interaction.
 
+![Workflow execution demo](workflow_demo.gif)
+
 ## Stack
 
 - n8n
